@@ -1,5 +1,5 @@
 # IPL-Case-Study
-It is a tableau dashboard development project to analyse IPL data of multiple seasons to drive insights
+It is a tableau dashboard development project to analyse IPL data of multiple seasons from 2008 to 2017 to drive insights
 
 Our objective is to develop dashbords so that we can analyze data at three levels:
 
